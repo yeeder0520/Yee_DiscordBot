@@ -6,10 +6,10 @@
 | [Argument]  | Argument is not required.      |
 
 ## Demo
-| Commands  | Arguments            | Description               |
-|-----------|----------------------|---------------------------|
-| Add       | First, Second, Third | Add two numbers together. |
-| finishjob |                      | 我可以幫你填工時                  |
+| Commands  | Arguments            | Description  |
+|-----------|----------------------|--------------|
+| Add       | First, Second, Third | 我可以幫你把三個數字相加 |
+| finishjob |                      | 我可以幫你填工時     |
 
 ## Utility
 | Commands | Arguments | Description          |
